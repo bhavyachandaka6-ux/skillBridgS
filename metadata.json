@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge - Student Career & Internship Portal",
+  "description": "Discover internships, improve technical skills, analyze career skill gaps, build resumes, and track progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
